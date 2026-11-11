@@ -1,0 +1,12 @@
+name: voxvfx
+description: Pure Dart visual effects particle simulation, force fields, color gradients, and emitter shapes.
+version: 0.1.0
+repository: https://github.com/soulwax/voxvfx
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^3.0.0
