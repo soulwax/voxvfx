@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxvfx logo"/>
+</p>
+
 # voxvfx
 
 High-performance, pure Dart visual effects particle simulation library. Designed for real-time 2D and 3D games with zero platform dependencies.
